@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>TTGClient</AssemblyName>
+    <RootNamespace>TTGClient</RootNamespace>
+    <Version>0.1.0</Version>
+    <Authors>TTG Client</Authors>
+    <Description>TTG Client - Minecraft mod browser for Modrinth and CurseForge.</Description>
+  </PropertyGroup>
+</Project>
